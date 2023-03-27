@@ -1,5 +1,5 @@
 # Pine
 
-Pine is a cloud platform inspired by CloudStack aims to be viable implementation of cloud infrastrure, esp for new platforms, e.g. edge cloud and industrials usages. 
+Pine is a cloud platform inspired by CloudStack aims to be a viable implementation of cloud infrastrure, esp. for new platforms, e.g. edge cloud and industrials usages. 
 
-Pine is developing in rust and python. Rust is robust and fast at the core and python brings a lot of features and easy integration at the upper layers, like networking and storage.   
+Pine is developing in rust and python. Reason is that Rust is robust and fast at the core and Python brings a lot of features and easy integration in the upper layers, e.g. networking and storage.   
