@@ -1,0 +1,19 @@
+[package]
+name = "pine-server"
+version = "0.1.0"
+authors = ["Barzin Pardaz <pine@barzin.io>"]
+edition = "2021"
+license = "Apache-2.0"
+homepage = "https://pine.github.io"
+repository = "https://github.com/pineproject/pine"
+documentation = "https://pine.github.io/docs"
+readme = "README.md"
+description = """
+
+"""
+
+[dependencies]
+
+[lib]
+
+[[bin]]
