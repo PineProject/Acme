@@ -1,5 +1,5 @@
 
-## Pine
+## PineCloud
 
 Pine is a cloud platform inspired by CloudStack aims to be a viable implementation of cloud infrastructure, esp. for new platforms like edge cloud and industrials usages. 
 
